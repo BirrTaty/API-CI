@@ -14,5 +14,5 @@ install:
 
 test_script:
   chmod +x gradlew
-  chmod --help
+
   - ./gradlew test --info
